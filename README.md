@@ -17,9 +17,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [MORSECODE] <a name="about-project"></a>
+# 📖 [Enumerables] <a name="about-project"></a>
 
-**[MORSECODE]** is a project that aims to write a ruby program that Decode a Morse code message
+**[Enumerables]** is a project that aims to write a ruby program that create Enumerables
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,6 +43,8 @@
 
 - **[Ruby Funtion]**
 - **[Loops in Ruby]**
+- **[Ruby Classes]**
+- **[Ruby Enumerable]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
