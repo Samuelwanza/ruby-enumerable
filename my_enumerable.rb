@@ -1,8 +1,11 @@
-# frozen_string_literal: true
-
 module MyEnumerable
-  def all?(&block)
+  def all?()
     each { |item| return false unless yield(item) }
     true
   end
+end
+
+def any?()
+  each { |item| return true if yield(item) }
+  false
 end
